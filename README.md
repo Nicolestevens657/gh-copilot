@@ -4,7 +4,7 @@ GitHub Copilot in the CLI is an extension for [GitHub CLI](https://cli.github.co
 
 For use cases, enabling, and limitations, see "[GitHub Copilot in the CLI](https://docs.github.com/en/copilot/github-copilot-in-the-cli)".
 
-For what data is collected, used, and shared, see "[Privacy Policies](https://docs.github.com/en/site-policy/privacy-policies/)".
+For what data is collected, used, and shared, see "[Privacy Policies](https://docs.github.com/en/site-policy/privacy-policies/)".b
 
 For help troubleshooting connectivity, see "[Troubleshooting network errors for GitHub Copilot](https://docs.github.com/en/copilot/troubleshooting-github-copilot/troubleshooting-network-errors-for-github-copilot)".
 
